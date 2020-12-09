@@ -1,4 +1,4 @@
-import vueCMsgCodeInput from './index.vue'
+import vueCMsgCodeInput from './App.vue'
 
 // 导出模块
 export default vueCMsgCodeInput

@@ -1,7 +1,7 @@
 {
   "name": "vuec-msgcode-input",
   "description": "陈志超的第一个项目 第三方组件封装 经历参考 http://www.uxys.com/html/Vue/20190214/26810.html ",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "陈志超 <czclxh@outlook.com>",
   "license": "MIT",
   "main": "dist/vueC-msgCode-input.min.js",
@@ -37,7 +37,10 @@
     "url": "git+https://github.com/czclxh/vuec-msgcode-input.git"
   },
   "keywords": [
-    "chen+001010"
+    "vue",
+    "验证码",
+    "多个验证码",
+    "分块验证码"
   ],
   "bugs": {
     "url": "https://github.com/czclxh/vuec-msgcode-input/issues"
