@@ -27,3 +27,5 @@
     参数名 initialFocus
     类型 Boolean
 ```
+
+我的第一个第三方组件封装 经历参考 http://www.uxys.com/html/Vue/20190214/26810.html 
